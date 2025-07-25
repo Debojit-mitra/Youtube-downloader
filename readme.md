@@ -51,7 +51,8 @@ A powerful and versatile YouTube downloader tool with both command-line and inte
    ```
 
 ## 🚀 Usage
-
+> [!NOTE]  
+> Make sure FFMPEG is installed in your machine.
 ### Command-Line Interface
 
 The basic command-line interface provides straightforward options:
